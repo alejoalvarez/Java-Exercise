@@ -18,7 +18,7 @@ public class ConvertListToMap2 {
 
         list.add(new PageWeb(6, "aws.com", 100000)); //
 
-        // Print result1 withthe old value for aws
+        // Print result1 with the old value for aws
         Map<String, Long> result1 = list.stream().collect(
                 Collectors.toMap(PageWeb::getName, PageWeb::getWebsites,
                         (oldValue, newValue) -> oldValue
