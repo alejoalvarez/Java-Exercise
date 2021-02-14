@@ -5,3 +5,4 @@
 * [Example 3 - Filter to Map](https://github.com/alejoalvarez/Java-Exercises/tree/main/Exercises-Java8/src/main/java/co/com/alejo/exercise3)
 * [Example 4 - Streams examples](https://github.com/alejoalvarez/Java-Exercises/tree/main/Exercises-Java8/src/main/java/co/com/alejo/exercise4)
 * [Example 5 - flatMat examples](https://github.com/alejoalvarez/Java-Exercises/tree/main/Exercises-Java8/src/main/java/co/com/alejo/exercise5)
+* [Example 6 - Find duplicate elements in a Streams](https://github.com/alejoalvarez/Java-Exercises/tree/main/Exercises-Java8/src/main/java/co/com/alejo/exercise6)
