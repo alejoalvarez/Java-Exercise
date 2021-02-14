@@ -19,7 +19,7 @@ public class ForEachListWithIndex {
                 .collect(Collectors.toList());
 
         languages.forEach(System.out::println);
-        
+
         //Example with a List
         List<String> languages2 = Arrays.asList("Java", "NodeJS", "JavaScript", "Python", "Go");
         HashMap<Integer, String> collect = languages2
@@ -30,8 +30,6 @@ public class ForEachListWithIndex {
                         });
 
         collect.forEach((k, v) -> System.out.println(k + ":" + v));
-
-
     }
 
 }
