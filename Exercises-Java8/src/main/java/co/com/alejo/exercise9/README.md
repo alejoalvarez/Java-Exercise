@@ -95,3 +95,9 @@ b
 y
 ```
 
+## Example 3
+
+Show if a stream is running in parallel mode. see class **IsStreamParallelMode**
+
+
+
