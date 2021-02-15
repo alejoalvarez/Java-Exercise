@@ -9,3 +9,4 @@
 * [Example 7 - Streams.reduce()](https://github.com/alejoalvarez/Java-Exercises/tree/main/Exercises-Java8/src/main/java/co/com/alejo/exercise7)
 * [Example 8 - Streams.sorted()](https://github.com/alejoalvarez/Java-Exercises/tree/main/Exercises-Java8/src/main/java/co/com/alejo/exercise8)
 * [Example 9 - Parallel Streams examples](https://github.com/alejoalvarez/Java-Exercises/tree/main/Exercises-Java8/src/main/java/co/com/alejo/exercise9)
+* [Example 10 - Streams iterate examples](https://github.com/alejoalvarez/Java-Exercises/tree/main/Exercises-Java8/src/main/java/co/com/alejo/exercise10)
