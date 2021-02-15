@@ -11,3 +11,4 @@
 * [Example 9 - Parallel Streams examples](https://github.com/alejoalvarez/Java-Exercises/tree/main/Exercises-Java8/src/main/java/co/com/alejo/exercise9)
 * [Example 10 - Streams iterate examples](https://github.com/alejoalvarez/Java-Exercises/tree/main/Exercises-Java8/src/main/java/co/com/alejo/exercise10)
 * [Example 11 - Streams Collector groupingBy examples](https://github.com/alejoalvarez/Java-Exercises/tree/main/Exercises-Java8/src/main/java/co/com/alejo/exercise11)
+* [Example 12 - Stream findFirst example](https://github.com/alejoalvarez/Java-Exercises/tree/main/Exercises-Java8/src/main/java/co/com/alejo/exercise12)
