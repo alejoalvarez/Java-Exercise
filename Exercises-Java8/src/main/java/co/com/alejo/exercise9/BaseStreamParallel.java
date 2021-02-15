@@ -12,7 +12,7 @@ public class BaseStreamParallel {
         range.forEach(System.out::println);
 
         System.out.println("Parallel...");
-        System.out.println("---------");
+        System.out.println("---------"); // Separate output examples
 
         IntStream range2 = IntStream.rangeClosed(1, 10);
         range2.parallel().forEach(System.out::println);
