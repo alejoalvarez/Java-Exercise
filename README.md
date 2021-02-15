@@ -15,3 +15,4 @@
 * [Example 13 - Read a file line by line](https://github.com/alejoalvarez/Java-Exercises/tree/main/Exercises-Java8/src/main/java/co/com/alejo/exercise13)
 * [Example 14 - Convert a Streams to Array](https://github.com/alejoalvarez/Java-Exercises/tree/main/Exercises-Java8/src/main/java/co/com/alejo/exercise14)
 * [Example 15 - Reuse a stream](https://github.com/alejoalvarez/Java-Exercises/tree/main/Exercises-Java8/src/main/java/co/com/alejo/exercise15)
+* [Example 16 - Optional examples](https://github.com/alejoalvarez/Java-Exercises/tree/main/Exercises-Java8/src/main/java/co/com/alejo/exercise16)
