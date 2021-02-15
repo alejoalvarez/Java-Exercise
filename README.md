@@ -13,3 +13,4 @@
 * [Example 11 - Streams Collector groupingBy examples](https://github.com/alejoalvarez/Java-Exercises/tree/main/Exercises-Java8/src/main/java/co/com/alejo/exercise11)
 * [Example 12 - Stream findFirst example](https://github.com/alejoalvarez/Java-Exercises/tree/main/Exercises-Java8/src/main/java/co/com/alejo/exercise12)
 * [Example 13 - Read a file line by line](https://github.com/alejoalvarez/Java-Exercises/tree/main/Exercises-Java8/src/main/java/co/com/alejo/exercise13)
+* [Example 14 - Convert a Streams to Array](https://github.com/alejoalvarez/Java-Exercises/tree/main/Exercises-Java8/src/main/java/co/com/alejo/exercise14)
