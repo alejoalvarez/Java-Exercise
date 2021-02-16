@@ -18,3 +18,4 @@
 * [Example 16 - Optional examples](https://github.com/alejoalvarez/Java-Exercises/tree/main/Exercises-Java8/src/main/java/co/com/alejo/exercise16)
 * [Example 17 - StringJoiner examples](https://github.com/alejoalvarez/Java-Exercises/tree/main/Exercises-Java8/src/main/java/co/com/alejo/exercise17)
 * [Example 18 - Valid if Array contains certain value](https://github.com/alejoalvarez/Java-Exercises/tree/main/Exercises-Java8/src/main/java/co/com/alejo/exercise18)
+* [Example 19 - Count duplicated items in java](https://github.com/alejoalvarez/Java-Exercises/tree/main/Exercises-Java8/src/main/java/co/com/alejo/exercise19)
