@@ -22,3 +22,4 @@
 * [Example 20 - Convert Object to Map (jackon - ObjectMapper)](https://github.com/alejoalvarez/Java-Exercises/tree/main/Exercises-Java8/src/main/java/co/com/alejo/exercise20)
 * [Example 21 - Print a pyramid](https://github.com/alejoalvarez/Java-Exercises/tree/main/Exercises-Java8/src/main/java/co/com/alejo/exercise21)
 * [Example 22 - Fibonacci example](https://github.com/alejoalvarez/Java-Exercises/tree/main/Exercises-Java8/src/main/java/co/com/alejo/exercise22)
+* [Example 23 - Regular expression](https://github.com/alejoalvarez/Java-Exercises/tree/main/Exercises-Java8/src/main/java/co/com/alejo/exercise23)
