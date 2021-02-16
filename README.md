@@ -19,3 +19,5 @@
 * [Example 17 - StringJoiner examples](https://github.com/alejoalvarez/Java-Exercises/tree/main/Exercises-Java8/src/main/java/co/com/alejo/exercise17)
 * [Example 18 - Valid if Array contains certain value](https://github.com/alejoalvarez/Java-Exercises/tree/main/Exercises-Java8/src/main/java/co/com/alejo/exercise18)
 * [Example 19 - Count duplicated items in java](https://github.com/alejoalvarez/Java-Exercises/tree/main/Exercises-Java8/src/main/java/co/com/alejo/exercise19)
+* [Example 20 - Convert Object to Map (jackon - ObjectMapper)](https://github.com/alejoalvarez/Java-Exercises/tree/main/Exercises-Java8/src/main/java/co/com/alejo/exercise20)
+* [Example 21 - Print a pyramid](https://github.com/alejoalvarez/Java-Exercises/tree/main/Exercises-Java8/src/main/java/co/com/alejo/exercise21)
