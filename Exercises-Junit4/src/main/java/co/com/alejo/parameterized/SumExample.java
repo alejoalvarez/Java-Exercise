@@ -1,4 +1,4 @@
-package co.com.alejo.parametrized;
+package co.com.alejo.parameterized;
 
 public class SumExample {
 
