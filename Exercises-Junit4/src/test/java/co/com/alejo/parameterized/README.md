@@ -1,4 +1,4 @@
-# Parametrized Test
+# Parameterized Test
 ---
 
 We can pass the parameters into the unit test method:
