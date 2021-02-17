@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="co.com.alejo.timeout.TimeoutExample2Test" tests="2" skipped="0" failures="1" errors="0" timestamp="2021-02-17T04:01:41" hostname="MacBook-Pro-de-Alejandro.local" time="1.006">
+  <properties/>
+  <testcase name="testSlowMethod1" classname="co.com.alejo.timeout.TimeoutExample2Test" time="1.005">
+    <failure message="org.junit.runners.model.TestTimedOutException: test timed out after 1 seconds" type="org.junit.runners.model.TestTimedOutException">org.junit.runners.model.TestTimedOutException: test timed out after 1 seconds
+	at java.base/java.lang.Thread.sleep(Native Method)
+	at java.base/java.util.concurrent.TimeUnit.sleep(TimeUnit.java:446)
+	at co.com.alejo.timeout.TimeoutExample2Test.testSlowMethod1(TimeoutExample2Test.java:19)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62)
+	at java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.base/java.lang.reflect.Method.invoke(Method.java:566)
+	at org.junit.runners.model.FrameworkMethod$1.runReflectiveCall(FrameworkMethod.java:50)
+	at org.junit.internal.runners.model.ReflectiveCallable.run(ReflectiveCallable.java:12)
+	at org.junit.runners.model.FrameworkMethod.invokeExplosively(FrameworkMethod.java:47)
+	at org.junit.internal.runners.statements.InvokeMethod.evaluate(InvokeMethod.java:17)
+	at org.junit.internal.runners.statements.FailOnTimeout$CallableStatement.call(FailOnTimeout.java:298)
+	at org.junit.internal.runners.statements.FailOnTimeout$CallableStatement.call(FailOnTimeout.java:292)
+	at java.base/java.util.concurrent.FutureTask.run(FutureTask.java:264)
+	at java.base/java.lang.Thread.run(Thread.java:831)
+</failure>
+  </testcase>
+  <testcase name="testSlowMethod2" classname="co.com.alejo.timeout.TimeoutExample2Test" time="0.0"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

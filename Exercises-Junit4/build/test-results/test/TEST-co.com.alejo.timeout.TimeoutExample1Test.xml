@@ -1,7 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<testsuite name="co.com.alejo.timeout.TimeoutExample1Test" tests="1" skipped="0" failures="0" errors="0" timestamp="2021-02-17T03:31:38" hostname="MacBook-Pro-de-Alejandro.local" time="4.008">
-  <properties/>
-  <testcase name="testSlowMethod" classname="co.com.alejo.timeout.TimeoutExample1Test" time="4.008"/>
-  <system-out><![CDATA[]]></system-out>
-  <system-err><![CDATA[]]></system-err>
-</testsuite>

@@ -16,3 +16,22 @@ In the above example, a global Timeout rule is declared, both the testSlowMethod
 The rule also applies on @Before and @After methods. see class **TimeoutExample2Test**
 
 
+## Example 3
+
+We can run multiple test cases with **@RunWith** and **@Suite** annotation
+
+```java
+import org.junit.Test;
+import org.junit.runner.RunWith;
+import org.junit.runners.Suite;
+
+@RunWith(Suite.class)
+@Suite.SuiteClasses({
+        Exception1Test.class, //test case 1
+        TimeoutTest.class     //test case 2
+})
+public class SuiteAbcTest {
+    //normally, this is an empty class
+}
+```
+
