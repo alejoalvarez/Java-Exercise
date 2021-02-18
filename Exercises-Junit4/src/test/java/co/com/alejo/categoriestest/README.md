@@ -7,4 +7,12 @@ For the examples we need to create marker interfaces to represent the categories
 
 This example uses **@Category** for organize the test into different categories on method level **CategoryMethodLevelTest**
 
+## Example 2
+
+This example uses **@Category** for organize the test into different categories on class level **CategoryClassLevelTest**
+
+## Example 3
+
+Multiple category examples. see class **CategoryTest**
+
 
