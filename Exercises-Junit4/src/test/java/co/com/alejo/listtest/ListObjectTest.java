@@ -1,4 +1,4 @@
-package co.com.alejo.testlist;
+package co.com.alejo.listtest;
 
 import org.junit.Test;
 
