@@ -5,5 +5,5 @@ Multiple exercises for Java
 
 * [Java 8 Exercises](https://github.com/alejoalvarez/Java-Exercises/tree/main/Exercises-Java%208)
 * [JSON Exercises](https://github.com/alejoalvarez/Java-Exercises/tree/main/Exercise-JSON)
-* [JUnit 4 Exercises](https://github.com/alejoalvarez/Java-Exercises/tree/main/Exercises-Junit4)
+* [JUnit 4 Exercises](https://github.com/alejoalvarez/Java-Exercises/tree/main/Exercises-JUnit%204)
 * [JSON 5 Exercises](https://github.com/alejoalvarez/Java-Exercises/tree/main/Exercises-JUnit%205)
