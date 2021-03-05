@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="com.co.alejo.exercise3.Parameterized1Test" tests="4" skipped="0" failures="0" errors="0" timestamp="2021-03-05T03:16:13" hostname="MacBook-Pro-de-Alejandro.local" time="0.091">
+  <properties/>
+  <testcase name="test_timeunit_ok(TimeUnit)[1]" classname="com.co.alejo.exercise3.Parameterized1Test" time="0.058"/>
+  <testcase name="test_timeunit_ok(TimeUnit)[2]" classname="com.co.alejo.exercise3.Parameterized1Test" time="0.002"/>
+  <testcase name="test_method_multi(String, int)[1]" classname="com.co.alejo.exercise3.Parameterized1Test" time="0.002"/>
+  <testcase name="test_method_multi(String, int)[2]" classname="com.co.alejo.exercise3.Parameterized1Test" time="0.002"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
