@@ -25,3 +25,4 @@
 * [Example 23 - Regular expression](https://github.com/alejoalvarez/Java-Exercises/tree/main/Exercises-Java%208/src/main/java/co/com/alejo/exercise23) 
 * [Example 24 - Get current date time](https://github.com/alejoalvarez/Java-Exercises/tree/main/Exercises-Java%208/src/main/java/co/com/alejo/exercise24)
 * [Example 25 - Get current timestamp](https://github.com/alejoalvarez/Java-Exercises/tree/main/Exercises-Java%208/src/main/java/co/com/alejo/exercise25)
+* [Example 26 - Check if array contains duplicated value](https://github.com/alejoalvarez/Java-Exercises/tree/main/Exercises-Java%208/src/main/java/co/com/alejo/exercise26)
